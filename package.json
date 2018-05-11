@@ -33,7 +33,7 @@
     "ember-export-application-global": "^2.0.0",
     "ember-fetch": "^3.4.4",
     "ember-load-initializers": "^1.0.0",
-    "ember-orbit": "^0.15.4",
+    "ember-orbit": "^0.15.6",
     "ember-resolver": "^4.0.0",
     "ember-source": "~2.18.0",
     "loader.js": "^4.2.3"
@@ -43,8 +43,8 @@
   },
   "private": true,
   "dependencies": {
-    "@orbit/indexeddb-bucket": "^0.15.0",
-    "@orbit/jsonapi": "^0.15.0",
-    "@orbit/local-storage-bucket": "^0.15.0"
+    "@orbit/indexeddb-bucket": "^0.15.14",
+    "@orbit/jsonapi": "^0.15.14",
+    "@orbit/local-storage-bucket": "^0.15.14"
   }
 }
